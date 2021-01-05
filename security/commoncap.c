@@ -7,6 +7,7 @@
  *
  */
 
+#include <linux/android_aid.h>
 #include <linux/capability.h>
 #include <linux/audit.h>
 #include <linux/module.h>
