@@ -11,6 +11,7 @@
  *  Multiqueue VM started 5.8.00, Rik van Riel.
  */
 
+#include <linux/seq_file.h>
 #include <linux/mmzone.h>
 #include <linux/mm.h>
 #include <linux/module.h>
